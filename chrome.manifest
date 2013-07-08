@@ -1,0 +1,3 @@
+content   xulschoolhello                content/
+
+overlay chrome://browser/content/browser.xul  chrome://xulschoolhello/content/browserOverlay.xul
